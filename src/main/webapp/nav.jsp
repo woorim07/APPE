@@ -22,7 +22,7 @@ nav a {
 <body>
 	<nav>
 		<a href="register.jsp">회원가입</a>
-		<a href="memberlist.jsp">회원가입 목록</a>
+		<a href="memberList.jsp">회원가입 목록</a>
 		<a href="index.jsp">홈으로</a>
 	</nav>
 </body>
